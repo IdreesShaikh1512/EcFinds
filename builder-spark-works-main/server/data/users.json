@@ -1,0 +1,157 @@
+[
+  {
+    "id": "user_1",
+    "email": "john.doe@example.com",
+    "username": "john_doe",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z",
+    "totalSold": 3,
+    "totalBought": 5
+  },
+  {
+    "id": "user_2",
+    "email": "sarah.smith@example.com",
+    "username": "sarah_smith",
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-02T00:00:00.000Z",
+    "totalSold": 2,
+    "totalBought": 8
+  },
+  {
+    "id": "user_3",
+    "email": "mike.wilson@example.com",
+    "username": "mike_wilson",
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-03T00:00:00.000Z",
+    "totalSold": 4,
+    "totalBought": 3
+  },
+  {
+    "id": "user_4",
+    "email": "emma.brown@example.com",
+    "username": "emma_brown",
+    "createdAt": "2024-01-04T00:00:00.000Z",
+    "updatedAt": "2024-01-04T00:00:00.000Z",
+    "totalSold": 1,
+    "totalBought": 6
+  },
+  {
+    "id": "user_5",
+    "email": "david.jones@example.com",
+    "username": "david_jones",
+    "createdAt": "2024-01-05T00:00:00.000Z",
+    "updatedAt": "2024-01-05T00:00:00.000Z",
+    "totalSold": 2,
+    "totalBought": 4
+  },
+  {
+    "id": "user_6",
+    "email": "lisa.garcia@example.com",
+    "username": "lisa_garcia",
+    "createdAt": "2024-01-06T00:00:00.000Z",
+    "updatedAt": "2024-01-06T00:00:00.000Z",
+    "totalSold": 3,
+    "totalBought": 2
+  },
+  {
+    "id": "user_7",
+    "email": "alex.martinez@example.com",
+    "username": "alex_martinez",
+    "createdAt": "2024-01-07T00:00:00.000Z",
+    "updatedAt": "2024-01-07T00:00:00.000Z",
+    "totalSold": 1,
+    "totalBought": 7
+  },
+  {
+    "id": "user_8",
+    "email": "sophie.anderson@example.com",
+    "username": "sophie_anderson",
+    "createdAt": "2024-01-08T00:00:00.000Z",
+    "updatedAt": "2024-01-08T00:00:00.000Z",
+    "totalSold": 2,
+    "totalBought": 5
+  },
+  {
+    "id": "user_9",
+    "email": "ryan.taylor@example.com",
+    "username": "ryan_taylor",
+    "createdAt": "2024-01-09T00:00:00.000Z",
+    "updatedAt": "2024-01-09T00:00:00.000Z",
+    "totalSold": 4,
+    "totalBought": 3
+  },
+  {
+    "id": "user_10",
+    "email": "olivia.thomas@example.com",
+    "username": "olivia_thomas",
+    "createdAt": "2024-01-10T00:00:00.000Z",
+    "updatedAt": "2024-01-10T00:00:00.000Z",
+    "totalSold": 1,
+    "totalBought": 6
+  },
+  {
+    "id": "user_11",
+    "email": "james.white@example.com",
+    "username": "james_white",
+    "createdAt": "2024-01-11T00:00:00.000Z",
+    "updatedAt": "2024-01-11T00:00:00.000Z",
+    "totalSold": 3,
+    "totalBought": 4
+  },
+  {
+    "id": "user_12",
+    "email": "chloe.harris@example.com",
+    "username": "chloe_harris",
+    "createdAt": "2024-01-12T00:00:00.000Z",
+    "updatedAt": "2024-01-12T00:00:00.000Z",
+    "totalSold": 2,
+    "totalBought": 3
+  },
+  {
+    "id": "user_13",
+    "email": "noah.clark@example.com",
+    "username": "noah_clark",
+    "createdAt": "2024-01-13T00:00:00.000Z",
+    "updatedAt": "2024-01-13T00:00:00.000Z",
+    "totalSold": 1,
+    "totalBought": 8
+  },
+  {
+    "id": "user_14",
+    "email": "ava.lewis@example.com",
+    "username": "ava_lewis",
+    "createdAt": "2024-01-14T00:00:00.000Z",
+    "updatedAt": "2024-01-14T00:00:00.000Z",
+    "totalSold": 2,
+    "totalBought": 5
+  },
+  {
+    "id": "user_15",
+    "email": "william.walker@example.com",
+    "username": "william_walker",
+    "createdAt": "2024-01-15T00:00:00.000Z",
+    "updatedAt": "2024-01-15T00:00:00.000Z",
+    "totalSold": 3,
+    "totalBought": 2
+  },
+  {
+    "id": "usr_hr6gepugwlmmf7xqasr",
+    "email": "suleyman3inch@gmail.com",
+    "username": "suleymanhas3inch",
+    "createdAt": "2025-09-06T07:21:02.763Z",
+    "updatedAt": "2025-09-06T07:21:02.763Z",
+    "totalSold": 0,
+    "totalBought": 0,
+    "passwordHash": "45d06235cbd1217fd2463314c8fd086c:d47b8897b59d6b1c867c3a726e9e8241c1403e43b498b65181b7f609e7bd66a113eae02f919fd91c3d7849cca073a01a906fa0265506329fb2790c48e451cb82"
+  },
+  {
+    "id": "usr_xcmv6hvgdyfmf7z7gl1",
+    "email": "fff@gmail.com",
+    "username": "fffd",
+    "createdAt": "2025-09-06T08:02:23.029Z",
+    "updatedAt": "2025-09-06T08:02:23.029Z",
+    "totalSold": 0,
+    "totalBought": 0,
+    "passwordHash": "52ab0ae3ff439e0d8ad62917bd907438:b5163f484fb4d70028a8d93aca78d6677ce84f8c39f7eccd69843c3e7550c74a66b5519cc67a0c5b005ed3bfb6cd2ad7261bb37edd7b08e2770d990c927a053d"
+  }
+]
